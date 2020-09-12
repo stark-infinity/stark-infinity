@@ -5,10 +5,9 @@ I'm currently learning and developing projects in machine learning and deep lear
 # Reach me @
  
 #### MAIL: saitejacit@gmail.com
-#### GITHUB:https://github.com/stark-infinity/
-#### LINKEDIN: https://www.linkedin.com/in/sai-teja-kavuru-2a4471135
 
-@<a href="https://github.com/stark-infinity"></a>
+
+@<a href="https://github.com/stark-infinity">Github</a>
 
 @<a href="https://www.twitch.tv/saitejak">Twitch</a> 
 
