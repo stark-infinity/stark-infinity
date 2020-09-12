@@ -7,3 +7,7 @@ I'm currently learning and developing projects in machine learning and deep lear
 #### MAIL: saitejacit@gmail.com
 #### GITHUB:https://github.com/stark-infinity/
 #### LINKEDIN: https://www.linkedin.com/in/sai-teja-kavuru-2a4471135
+
+<a href="https://github.com/stark-infinity"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Learning in public on <a href="https://www.twitch.tv/saitejak">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 
+- Sharing updates on <a href="https://www.linkedin.com/in/sai-teja-kavuru-2a4471135/">LinkedIn</a> 💼
