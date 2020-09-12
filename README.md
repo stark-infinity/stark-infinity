@@ -10,7 +10,6 @@ I'm currently learning and developing projects in machine learning and deep lear
 
 <a href="https://github.com/stark-infinity"></a>
 
-- contact by mail on <a href="saitejacit@gmail.com">Gmail</a>
 
 - Learning in public on <a href="https://www.twitch.tv/saitejak">Twitch</a> 📹 ✍🏾
 
