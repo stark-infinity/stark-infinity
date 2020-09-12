@@ -10,6 +10,6 @@ I'm currently learning and developing projects in machine learning and deep lear
 
 <a href="https://github.com/stark-infinity"></a>
 
-<a href="https://www.twitch.tv/saitejak">Twitch</a> 📹 ✍🏾
+<a href="https://www.twitch.tv/saitejak">Twitch</a> 
 
-<a href="https://www.linkedin.com/in/sai-teja-kavuru-2a4471135">LinkedIn</a> 💼
+<a href="https://www.linkedin.com/in/sai-teja-kavuru-2a4471135">LinkedIn</a> 
