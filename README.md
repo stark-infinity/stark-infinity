@@ -9,6 +9,7 @@ I'm currently learning and developing projects in machine learning and deep lear
 #### LINKEDIN: https://www.linkedin.com/in/sai-teja-kavuru-2a4471135
 
 <a href="https://github.com/stark-infinity"></a>
+
 - Learning in public on <a href="https://www.twitch.tv/saitejak">Twitch</a> 📹 ✍🏾
 
 - Sharing updates on <a href="https://www.linkedin.com/in/sai-teja-kavuru-2a4471135">LinkedIn</a> 💼
