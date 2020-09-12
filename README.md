@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm saiteja, an undergrad student majoring in the field of computer science. My area of concentration mainly revolves around AI more usable to address real-world problems and an enthusiastic learner too.
 
 <!--
 **stark-infinity/stark-infinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
