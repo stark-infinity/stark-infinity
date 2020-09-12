@@ -3,6 +3,6 @@ Hi, i'm saiteja, an undergrad student majoring in the field of computer science.
 I'm currently learning and developing projects in machine learning and deep learning with areas like COMPUTER VISION, COMPUTATIONAL THINKING  AND NEURAL NETWORKS.
 
 **Reach me @
-\n MAIL: saitejacit@gmail.com
-\n GITHUB:https://github.com/stark-infinity/
-\n LINKEDIN: https://www.linkedin.com/in/sai-teja-kavuru-2a4471135**
+ MAIL: saitejacit@gmail.com
+ GITHUB:https://github.com/stark-infinity/
+ LINKEDIN: https://www.linkedin.com/in/sai-teja-kavuru-2a4471135**
