@@ -1,6 +1,7 @@
 
 
 # Hi, i'm Sai Teja K 👋🏻
+<img src:"https://github.com/saitejakavuru/saitejakavuru/blob/master/network.png" >
 an undergrad student majoring in the field of computer science. My area of concentration mainly revolves around making AI more usable to address real-world problems and an enthusiastic learner too.
 
 I'm currently learning and developing projects in machine learning and deep learning with areas like COMPUTER VISION AND NEURAL NETWORKS.
