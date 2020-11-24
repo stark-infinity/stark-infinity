@@ -4,10 +4,9 @@
 
 <div style="background-image: url('https://github.com/saitejakavuru/saitejakavuru/blob/master/network.png');">
 
+an undergrad student majoring in the field of computer science. My area of concentration mainly revolves around making AI more usable to address real-world problems and an enthusiastic learner too.
 
-an undergrad student majoring in the field of computer science. My area of concentration mainly revolves around making AI more usable to address real-world problems and an enthusiastic learner too.< a
-
-I'm currently learning and developing projects in machine learning and deep learning with areas like COMPUTER VISION AND NEURAL NETWORKS.< a
+I'm currently learning and developing projects in machine learning and deep learning with areas like COMPUTER VISION AND NEURAL NETWORKS.
 
 ## Reach me @
  
