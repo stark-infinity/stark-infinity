@@ -1,8 +1,7 @@
 
 
 # Hi, i'm Sai Teja K 👋🏻
-
-<div style="background-image: url('https://github.com/saitejakavuru/saitejakavuru/blob/master/network.png');">
+<img src="https://github.com/saitejakavuru/saitejakavuru/blob/master/artificial-intelligence-white-collar.-work.jpg" width = "1000" height ="500">
 
 an undergrad student majoring in the field of computer science. My area of concentration mainly revolves around making AI more usable to address real-world problems and an enthusiastic learner too.
 
