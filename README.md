@@ -9,7 +9,7 @@ I'm currently learning and developing projects in machine learning and deep lear
 #### MAIL: saitejacit@gmail.com
 
 
-@<a href="https://github.com/stark-infinity">Github</a>
+@<a href="https://github.com/saitejakavuru">Github</a>
 
 @<a href="https://www.twitch.tv/saitejak">Twitch</a> 
 
